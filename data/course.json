@@ -1,0 +1,33 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Health and Medicine",
+      "Sensory-Neural Systems"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Graphics and Visualization"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "85759333-a5ca-caa1-eee0-4a7b45335433"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Special Topics in Vision Science",
+  "course_description": "An advanced seminar on issues of current interest in human and machine vision. Topics vary from year to year. This year, the class will involve studying the perception of materials. Participants discuss current literature as well as their ongoing research. Topics are tackled from multiple standpoints, including optics, psychophysics, computer graphics and computer vision.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.357",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
